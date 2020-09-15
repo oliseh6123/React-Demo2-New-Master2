@@ -1,0 +1,33 @@
+[
+
+    {
+
+"unitGrade" : "A",
+"lowerScore" : 70,
+"upperScore" :100,
+"interpretation" : "Very Good"
+},	
+{
+
+"unitGrade" :"B",
+"lowerScore" : 50,
+"upperScore" : 69,
+"interpretation" :"Improved"
+},	
+{
+
+"unitGrade" :"C",
+"lowerScore" : 40,
+"upperScore" :49,
+"interpretation" :"Needs Improvement"
+},	
+{
+
+"unitGrade" : "D",
+"lowerScore" : "1",
+"upperScore" :39,
+"interpretation" : "Not Satisfactory"
+
+}
+ 
+]

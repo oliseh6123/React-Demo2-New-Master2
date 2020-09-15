@@ -1,0 +1,16 @@
+[
+        {
+            "Id": "001",
+            "branchUnit": "Credit"
+        },
+        {
+            "Id": "002",
+            "branchUnit": "Operations"
+        },
+		
+		{
+			"Id": "003",
+            "branchUnit": "Compliance"
+		}
+				
+    ]

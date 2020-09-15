@@ -1,0 +1,43 @@
+[
+	{
+	  "gradeID":"ic4MDCEO",
+	  "gradeType":"MD/CEO"
+	},
+	{
+	  "gradeID":"ic4ED",
+	  "gradeType":"Executive Director" 
+	},
+	{
+	  "gradeID":"ic4GM",
+	  "gradeType":"General Manager"
+	},
+	{
+	  "gradeID":"ic4AGM",
+	  "gradeType":"Assistant General Manager"
+	},
+	{
+	  "gradeID":"ic4PM",
+	  "gradeType":"Principal Manager" 
+	},
+	{
+	  "gradeID":"ic4SM",
+	  "gradeType":"Senior Manager"
+	},
+	{
+	  "gradeID":"ic4MAN",
+	  "gradeType":"Manager" 
+	},
+	{
+	  "gradeID":"ic4OFF",
+	  "gradeType":"Officer" 
+	},
+	{
+	  "gradeID":"ic4JOF" ,
+	  "gradeType":"Junior Officer"
+	},
+	{
+	  "gradeID":"ic4CLERK",
+	  "gradeType":"Clerical Staff"
+	}
+	
+]

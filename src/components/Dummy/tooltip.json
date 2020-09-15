@@ -1,0 +1,16 @@
+[
+    {
+        "introduction":"This is the introduction from that houses the WorksheetID which cannot be enter and other calender related items like Current Audit Period where you select the start month and year of your audit in the first calender input and the second input where you select the end month and year of your audit dropdown for you to select from and if there is something more to add you can also fill the text area field Other Objectives",
+        "keyofficer":"This is the Key Officer form, where you get to select the Key Officers associate with the audit,the Grade Level and Function are automatically filled when the Key Officers are selected",
+        "inspectedteam":"This is the Inspection form that houses the auditors information such as Auditor Name, Auditor Role and the audit Inspected Area, We also have the reviewer panel where you select the Reviewer Name, Reviewer Role and the approver panel where you select the Appover Name, Appover Role",
+        "Objectives":"This is where you enter the objectives of the audit report,click the Add Objectives button to bring out dropdown for you to select from and if there is something more to add you can also fill the text area field Other Objectives",
+        "Approaches":"This is the Approaches form that houses Auditor Approaches with a text area for Auditor Details, and the Approach dropdown for approaches taken and Coverage Percent and Overall Coverage This is the Approaches form that houses Auditor Approaches with a text area for Auditor Details, and the Approach dropdown for approaches taken and Coverage Percent and Overall Coverage This is the Approaches form that houses Auditor Approaches with a text area for Auditor Details, and the Approach dropdown for approaches taken and Coverage Percent and Overall Coverage",
+        "auditlog":"This is the Audit Log form the shows the time records and workstations of the work sheet records",
+        "tab1id":"Introduction",
+        "tab2id":"Key Officer",
+        "tab3id":"Inspection Team",
+        "tab4id":"Objectives",
+        "tab5id":"Approaches",
+        "tab6id":"Audit Log"
+    }
+]

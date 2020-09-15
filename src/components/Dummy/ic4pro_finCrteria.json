@@ -1,0 +1,19 @@
+[
+
+   {
+    "criteria": "PBT",
+    "description":"Profit Before Tax",
+    "currencyCode": "USD"
+    },
+	{
+    "criteria": "Deposit",
+    "description":"Cash Deposited",
+    "currencyCode": "NGN"
+   },
+   {
+    "criteria": "Risk Asset",
+    "description":"Risk of asset",
+    "currencyCode": "YEN"
+	}
+
+    ]

@@ -1,0 +1,10 @@
+[
+    {
+        "headerCurrent":"Invalid current Audit Period",
+        "messageCurrent":"End period of current audit shouldn't be less than Start period of current audit",
+        "headerVisit":"Invalid Audit Period",
+        "messageVisit":"Audit period end shouldn't be less than Audit period start",
+        "headerExit":"Invalid exit meeting Date",
+        "messageExit":"Exit meeting shouldn't be less than Audit period end"
+    }
+]

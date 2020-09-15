@@ -1,0 +1,22 @@
+[
+    {
+        "currencyCode": "NGN",
+        "currencyDescription":"Naira"
+    },
+    {
+        "currencyCode": "USD",
+        "currencyDescription":"Dollar"
+    },
+    {
+        "currencyCode": "PD",
+        "currencyDescription":"Pound"
+    },
+    {
+        "currencyCode": "EURO",
+        "currencyDescription":"Euro"
+    },
+    {
+        "currencyCode": "YEN",
+        "currencyDescription":"Yen"
+    }
+]
